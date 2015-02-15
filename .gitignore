@@ -18,3 +18,5 @@
 # Simulink Code Generation
 slprj/
 
+# Remove coursera submit credentials
+ml_login_data.mat
